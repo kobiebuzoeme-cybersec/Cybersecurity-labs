@@ -22,6 +22,9 @@ The labs demonstrate practical experience with penetration testing, vulnerabilit
 | Netcat Banner Grabbing | Service enumeration and banner grabbing |
 | Nessus Vulnerability Scan | Identifying system vulnerabilities |
 | Linux Privilege Escalation | Escalating privileges in a controlled lab |
+| Metasploit Windows Exploitation | Creating payloads and gaining Meterpreter access |
+| Client-Side Vulnerability Attack | Exploiting user-side vulnerabilities |
+| VNC Remote Session | Remote graphical control using Metasploit |
 
 ## Objective
 
